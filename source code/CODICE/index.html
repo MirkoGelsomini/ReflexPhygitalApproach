@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+
+    <meta http-equiv="cache-control" content="no-cache" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="msapplication-tap-highlight" content="no" />
+    <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="msapplication-TileColor" content="#ebebeb">
+    <meta name="msapplication-TileImage" content="assets/img/favicon/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ebebeb">
+
+    <title>Abilia</title>
+
+    <link rel="apple-touch-icon" sizes="57x57" href="assets/img/favicon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="assets/img/favicon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="assets/img/favicon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="assets/img/favicon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="assets/img/favicon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="assets/img/favicon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="assets/img/favicon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="assets/img/favicon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="assets/img/favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="assets/img/favicon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon/favicon-16x16.png">
+    <link rel="manifest" href="assets/img/favicon/manifest.json?v3">
+
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/jquery.freetrans.css">
+    <link rel="stylesheet" href="assets/css/style.css?v12">
+
+
+</head>
+
+<body>
+    <div id="SELECTIONPANEL" class="container">
+        <div class="row">
+            <div class="col-12 mx-auto">
+                <select id="user">
+                  <option value="0">Seleziona utente....</option>
+                  <option value="p1">P1</option>
+                  <option value="p2">P2</option>
+                  <option value="p3">P3</option>
+                  <option value="p4">P4</option>                    
+                  <option value="p5">P5</option>                   
+                  <option value="p6">P6</option>                   
+                  <option value="p7">P7</option>                   
+                  <option value="p8">P8</option>                   
+                  <option value="p9">P9</option>                   
+                  <option value="p10">P10</option>                   
+                  <option value="p11">P11</option>                   
+                  <option value="p12">P12</option>                   
+                  <option value="p13">P13</option>                   
+                  <option value="p14">P14</option>                   
+                  <option value="p15">P15</option>                   
+                  <option value="p16">P16</option>                   
+                  <option value="p17">P17</option>                   
+                  <option value="p18">P18</option>                   
+                  <option value="p19">P19</option>                   
+                  <option value="p20">P20</option>
+                 <option value="pprova">PPROVA</option>
+                </select>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 mx-auto">
+                <select id="type">
+                  <option value="0">Seleziona modalità di interazione....</option>
+                  <option value="PAPER">PAPER</option>
+                  <option value="TABLET">TABLET</option>
+                  <option value="REFLEX">REFLEX</option>
+                </select>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 mx-auto">
+                <select id="figure">
+                  <option value="0">Seleziona figura....</option>
+                  <option value="camel">Cammello</option>
+                  <option value="dog">Cane</option>
+                  <option value="kangaroo">Canguro</option>
+                  <option value="horse">Cavallo</option>
+                  <option value="swan">Cigno</option>
+                  <option value="rabbit">Coniglio</option>
+                  <option value="cat">Gatto</option>
+                  <option value="bear">Orso</option>
+                  <option value="duck">Papera</option>
+                  <option value="fish">Pesce</option>
+                  <option value="turtle">Tartaruga</option>
+                  <option value="mouse">Topo</option>
+                </select>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-4 mx-auto">
+                <button type="button" class="btn btn-success" id="start">START</button>
+            </div>
+        </div>
+    </div>
+    <div id="PAPER" class="container">
+        <div class="row">
+            <span id="time">0</span>
+        </div>
+        <div class="row">
+            <span id="items">0/7</span>
+        </div>
+
+    </div>
+    <div id="TABLET" class="container-fluid">
+        <div class="row">
+            <div class="col-6" id="TABLET_left">
+
+                <img src="assets/img/green.png" id="green" />
+                <img src="assets/img/blue.png" id="blue" />
+                <img src="assets/img/red.png" id="red" />
+                <img src="assets/img/orange.png" id="orange" />
+                <img src="assets/img/lightblue.png" id="lightblue" />
+                <img src="assets/img/purple.png" id="purple" />
+                <img src="assets/img/yellow.png" id="yellow" />
+
+            </div>
+            <div class="col-6" id="TABLET_right">
+                destra
+            </div>
+        </div>
+
+    </div>
+    <div id="REFLEX" class="container">
+        <div class="row" id="REFLEX_up">
+            <div class="col-12">
+                su
+            </div>
+        </div>
+        <div class="row" id="REFLEX_down">
+            <div class="col-3 mx-auto">
+                <video id="video_happy" src="assets/video/einstein.mp4" autoplay loop></video>
+                <video id="video_still" src="assets/video/einstein2.mp4" autoplay loop></video>
+                <audio></audio>
+            </div>
+        </div>
+    </div>
+
+
+    <a class="smallrefresh" onclick="javascript:location.reload(true)"></a>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="assets/js/jquery-3.3.1.min.js"></script>
+    <script src="assets/js/popper.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/svg.js"></script>
+    <script src="assets/js/Matrix.js"></script>
+    <script src="assets/js/jquery.freetranstouch.js"></script>
+    <script src="assets/js/abilia.js"></script>
+    <script src="assets/js/script.js?v11"></script>
+</body>
+
+</html>

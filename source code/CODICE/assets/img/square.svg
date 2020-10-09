@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 329.1 326.4" style="enable-background:new 0 0 329.1 326.4;" xml:space="preserve">
+
+    <polygon id="red" class="rotatable" draggable="true" style="fill:#E53835;stroke:#000000;stroke-miterlimit:10;" points="323.5,315.5 323.5,315.5 170.7,162.8 
+	323.5,10.1 "/>
+
+    <polygon id="blue" class="rotatable" style="fill:#3C5FA9;stroke:#000000;stroke-miterlimit:10;" points="14,319.5 14,319.5 166.7,166.8 319.5,319.5 
+	"/>
+
+    <polygon id="lightblue" class="rotatable" style="fill:#0597A7;stroke:#000000;stroke-miterlimit:10;" points="6.7,166.8 6.7,166.8 83,243.2 
+	6.7,319.5 "/>
+
+    <polygon id="purple" class="rotatable" style="fill:#B55FA1;stroke:#000000;stroke-miterlimit:10;" points="242.4,85.9 242.4,85.9 166,162.3 
+	89.6,85.9 "/>
+
+    <rect id="yellow" class="rotatable" x="32.6" y="109.8" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -90.4548 109.246)" style="fill:#FBC02D;stroke:#000000;stroke-miterlimit:10;" width="108" height="108"/>
+
+    <polygon id="green" class="rotatable" style="fill:#7CB340;stroke:#000000;stroke-miterlimit:10;" points="6.7,160.9 6.7,160.9 6.7,7.9 159.7,7.9 "/>
+
+    <polygon id="orange" class="rotatable" style="fill:#EF7C0F;stroke:#000000;stroke-width:1.0061;stroke-miterlimit:10;" points="243.9,81.9 92.4,81.9 
+	167,7.9 318.5,7.9 "/>
+</svg>
