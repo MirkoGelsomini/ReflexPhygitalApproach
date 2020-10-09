@@ -1,4 +1,5 @@
-# Reflex Phygital Approach
+# The Potential of Phygital Technologies for People with Intellectual Disability: an Empirical Study in a Social Care Center
+## Multimedia Tools and Applications Journal https://www.springer.com/journal/11042
 
 This repository hosts two folders:
 
