@@ -4,7 +4,8 @@
 
 This repository hosts two folders:
 - "source code": The source files of the wizard of oz version of Reflex, Tablet and Paper modes. With these files, any researcher will be able to run studies with the same approaches we proposed.
-- "data and materials": Data from the comaprative study between Reflex, Tablet and Paper modes. With these data, any researcher will be able to run any other type of statistical analysis.
+- "data and materials": Data from the comparative study between Reflex, Tablet and Paper modes. With these data, any researcher will be able to run any other type of statistical analysis.
+- "images": Some vector images used to describe the Reflex, Tablet and Paper approaches.
 
 ### Ethical considerations
 A consent form, dealing with the use of data and images recorded during the study, was signed by both parents or legal tutor of each participant involved. Their information  were treated with the highest level of confidentiality, storing only the participant id and related tests results. Personal data were processed only to the extent that they were indispensable in relation to the objective of the study, in compliance with the provisions of current legislation on the protection of personal data and in accordance with the provisions of the general authorizations of the Guarantor Authority for the protection of personal data.
