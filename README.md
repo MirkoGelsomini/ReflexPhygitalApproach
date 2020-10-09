@@ -1,6 +1,6 @@
 # The Potential of Phygital Technologies for People with Intellectual Disability: an Empirical Study in a Social Care Center
 ## Multimedia Tools and Applications Journal https://www.springer.com/journal/11042
-### Authors: Mirko Gelsomini, Micol Spitale
+### Authors: Mirko Gelsomini, Micol Spitale, Franca Garzotto
 
 This repository hosts two folders:
 - "source code": The source files of the wizard of oz version of Reflex, Tablet and Paper modes. With these files, any researcher will be able to run studies with the same approaches we proposed.
