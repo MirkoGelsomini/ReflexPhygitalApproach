@@ -2,7 +2,7 @@
 ## Multimedia Tools and Applications Journal https://www.springer.com/journal/11042
 ### Authors: Mirko Gelsomini, Micol Spitale, Franca Garzotto
 
-This repository hosts two folders:
+This repository hosts the following folders:
 - "source code": The source files of the wizard of oz version of Reflex, Tablet and Paper modes. With these files, any researcher will be able to run studies with the same approaches we proposed.
 - "data and materials": Data from the comparative study between Reflex, Tablet and Paper modes. With these data, any researcher will be able to run any other type of statistical analysis.
 - "images": Some vector images used to describe the Reflex, Tablet and Paper approaches.
